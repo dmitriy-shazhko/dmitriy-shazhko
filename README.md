@@ -62,7 +62,7 @@
 <a href="https://t.me/ShazhkoDmitriy">
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" />
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:schajckodmitrij@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" />
 </a>

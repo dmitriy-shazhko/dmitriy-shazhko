@@ -60,13 +60,13 @@
 ## 📫 Контакты
 
 <p align="left">
-  <a href="https://t.me/ShazhkoDmitriy" target="_blank">
+  <a href="https://t.me/ShazhkoDmitriy">
     <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="38" alt="Telegram">
   </a>
-  <a href="mailto:schajckodmitrij@gmail.com" target="_blank">
+  <a href="mailto:schajckodmitrij@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="38" alt="Email">
   </a>
-  <a href="https://vk.ru/id133141513" target="_blank">
+  <a href="https://vk.ru/id133141513">
     <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" width="38" alt="VK">
   </a>
 </p>

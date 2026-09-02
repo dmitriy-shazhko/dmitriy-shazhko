@@ -59,10 +59,14 @@
 
 ## 📫 Контакты
 
-<a href="https://t.me/ShazhkoDmitriy" style="text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40">
-</a><a href="mailto:schajckodmitrij@gmail.com" style="text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40">
-</a><a href="https://vk.ru/id133141513" style="text-decoration:none;">
-  <img src="https://cdn.simpleicons.org/vk" width="40">
-</a>
+<p>
+  <a href="https://t.me/ShazhkoDmitriy">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40">
+  </a>
+  <a href="mailto:schajckodmitrij@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40">
+  </a>
+    <a href="https://vk.ru/id133141513">
+      <img src="https://cdn.simpleicons.org/vk" width="40">
+  </a>
+</p>

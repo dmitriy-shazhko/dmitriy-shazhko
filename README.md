@@ -62,10 +62,10 @@
 <p align="left">
   <a href="https://t.me/ShazhkoDmitriy">
     <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="38" alt="Telegram">
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="mailto:schajckodmitrij@gmail.com">
     <img src="https://cdn.simpleicons.org/maildotru/005FF9" width="38" alt="Email">
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://vk.ru/id133141513">
     <img src="https://cdn.simpleicons.org/vk/0077FF" width="38" alt="VK">
   </a>

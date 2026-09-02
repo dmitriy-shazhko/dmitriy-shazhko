@@ -66,3 +66,7 @@
 <a href="mailto:schajckodmitrij@gmail.com">
   <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" />
 </a>
+&nbsp;&nbsp;
+<a href="https://vk.ru/id133141513">
+  <img src="https://cdn.simpleicons.org/vk" width="40" />
+</a>

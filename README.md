@@ -54,7 +54,3 @@
 <a href="mailto:dshazhko.24@gmail.com">
   <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="38" alt="Email">
 </a>
-<a href="https://vk.ru/id133141513">
-  <img src="https://img.icons8.com/?size=100&id=13977&format=png&color=000000" width="38" alt="VK">
-</a>
-

@@ -48,10 +48,10 @@
 ## 📫 Контакты
 
 
-<a href="https://t.me/ShazhkoDmitriy">
+<a href="https://t.me/shazhko_ds">
   <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="38" alt="Telegram">
 </a>
-<a href="mailto:schajckodmitrij@gmail.com">
+<a href="mailto:dshazhko.24@gmail.com">
   <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="38" alt="Email">
 </a>
 <a href="https://vk.ru/id133141513">
